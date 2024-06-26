@@ -1,5 +1,5 @@
-## Hi there 👋
+## Olá
 
 <!--
-
+Sou estudante do Alura.
 -->
